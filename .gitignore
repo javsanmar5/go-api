@@ -1,0 +1,31 @@
+# Binaries
+/bin/
+*.exe
+*.out
+*.app
+
+# Build artifacts
+*.o
+*.a
+*.so
+
+# Go modules
+go.mod
+go.sum
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs & temp files
+*.log
+*.tmp
+*.cache
+.DS_Store
+
+# Test & coverage
+*.test
+coverage.out
+
